@@ -1,5 +1,0 @@
-packages:
-  - .
-minimumReleaseAge: 2880
-onlyBuiltDependencies:
-  - sharp
